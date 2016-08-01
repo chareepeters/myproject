@@ -1,1 +1,3 @@
 A file to make changes and try out git.
+
+Adding some notes. 
